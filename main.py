@@ -35,7 +35,11 @@ async def on_message(message: cl.Message):
 
 
 
+
+
+
+
         
 # run in the terminal 
 # .venv\Scripts\activate
-# uv run --active chainlit run main.py --port 8001 
+# chainlit run main.py --port 8001
